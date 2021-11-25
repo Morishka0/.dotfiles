@@ -1,0 +1,1 @@
+/home/barghest/.config/nvim/init.vim

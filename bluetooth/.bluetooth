@@ -1,0 +1,5 @@
+#!/bin/bash
+bluetoothctl
+bluetoothctl power on
+bluetoothctl connect 1C:52:16:B2:BD:0D
+bluetoothctl exit	
